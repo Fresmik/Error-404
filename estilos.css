@@ -24,7 +24,7 @@
     justify-content: center;
 }
 .error {
-    width: 25rem;
+    width: 45rem;
     background-position: center;
     background-size: cover;
 }
@@ -54,7 +54,7 @@
 .num{
     color:var(--text2);
     font-weight: bold;
-    font-size: 3.1rem;
+    font-size: 5.1rem;
 }
 .btn{
     padding: .7rem 3rem;
